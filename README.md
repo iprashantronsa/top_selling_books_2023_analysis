@@ -1,3 +1,5 @@
+![books](https://github.com/user-attachments/assets/f1f7b1a5-c7df-4deb-bf15-8a07a5eba6a4)
+
 #### This project analyzes the top-selling Amazon Kindle books of 2023, exploring various aspects of the data to gain insights into popular trends, genres, and authors.
 
 # Project Overview
