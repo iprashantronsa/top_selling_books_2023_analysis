@@ -1,8 +1,8 @@
 #### This project analyzes the top-selling Amazon Kindle books of 2023, exploring various aspects of the data to gain insights into popular trends, genres, and authors.
 
 # Project Overview
-Dataset: The dataset includes information about the top-selling books on Amazon Kindle in 2023, with attributes such as title, author, sales rank, and more.
-Objective: The goal is to analyze the data to understand the factors contributing to a book's success on the platform.
+- Dataset: The dataset includes information about the top-selling books on Amazon Kindle in 2023, with attributes such as title, author, sales rank, and more.
+- Objective: The goal is to analyze the data to understand the factors contributing to a book's success on the platform.
 
 # Techniques Used:
 Data Cleaning and Preparation to ensure the dataset is ready for analysis.
